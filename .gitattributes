@@ -1,1 +1,2 @@
 qgis2web_2025_08_09-21_10_42_209990.zip filter=lfs diff=lfs merge=lfs -text
+*.js filter=lfs diff=lfs merge=lfs -text
